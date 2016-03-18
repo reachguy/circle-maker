@@ -9,4 +9,4 @@ $('html').on('keydown', function (e) {
   $body.append($name);
   $name.css('left', newLeft);
   $name.css('top', newTop);
-})
+});
